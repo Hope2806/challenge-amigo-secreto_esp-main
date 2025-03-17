@@ -46,8 +46,8 @@ Esta es una aplicación web simple que te ayudará a realizar sorteos entre amig
 
 ### Demostración
 
-![Agregar Participantes](assets/demo-agregar.gif) <!-- Agrega un GIF o imagen de demostración -->
-![Sortear Amigo Secreto](assets/demo-sortear.gif) <!-- Agrega un GIF o imagen de demostración -->
+![Agregar Participantes](assets/agregar-amigo.gif) <!-- Agrega un GIF o imagen de demostración -->
+![Sortear Amigo Secreto](assets/sortear.gif) <!-- Agrega un GIF o imagen de demostración -->
 
 ---
 
