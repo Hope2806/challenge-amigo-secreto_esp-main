@@ -46,8 +46,8 @@ Esta es una aplicación web simple que te ayudará a realizar sorteos entre amig
 
 ### Demostración
 
-![Agregar Participantes](assets/agregar-amigo.gif) <!-- Agrega un GIF o imagen de demostración -->
-![Sortear Amigo Secreto](assets/sortear.gif) <!-- Agrega un GIF o imagen de demostración -->
+![Agregar Participantes](https://github.com/Hope2806/challenge-amigo-secreto_esp-main/blob/main/assets/agregar-amigo.gif)
+![Sortear Amigo Secreto](https://github.com/Hope2806/challenge-amigo-secreto_esp-main/blob/main/assets/sortear.gif) 
 
 ---
 
